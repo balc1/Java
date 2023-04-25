@@ -9,7 +9,7 @@ public class UstluSayı4ve5 {
         for (int i = 1; i <=n; i*=4) {
             System.out.println(i);
         }
-        System.out.print("----------------------------------------------");
+        System.out.println("----------------------------------------------");
         System.out.println("5 in katları");
         for (int i = 1; i <=n; i*=5) {
             System.out.println(i);
